@@ -7,7 +7,7 @@
 - 🔹 Actualmente explorando el desarrollo backend y la IA.  
 
 ## 🛠️ Tecnologías  
-💡 HTML | CSS | JavaScript | React | Node.js | Git | MySQL | PowerBi Básico ! Python | Jupyter | Coolab |
+💡 HTML | CSS | JavaScript | React | Node.js | Git | MySQL | PowerBi Básico | Python | Jupyter | Coolab |
 
 ## 📫 Contacto  
 📌 [LinkedIn](www.linkedin.com/in/evelin-robayo-3421a7209) | 
